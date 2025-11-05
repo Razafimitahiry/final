@@ -60,6 +60,7 @@ instagrapi==1.18.6
 telethon==1.33.1
 requests==2.32.3
 beautifulsoup4==4.12.3
+pillow>=10.3.0
 
 # Utils & Web
 urllib3>=2.0.7
